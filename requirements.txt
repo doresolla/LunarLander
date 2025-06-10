@@ -1,0 +1,7 @@
+gymnasium[box2d]
+swig
+numpy
+matplotlib
+networkx
+imageio
+imageio[ffmpeg]
